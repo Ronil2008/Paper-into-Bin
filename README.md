@@ -1,1 +1,1 @@
-# Paper-into-Bin
+# CP-2
